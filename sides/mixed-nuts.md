@@ -2,8 +2,10 @@
 
 ## Ingredients
 
-- Ingredient 1
-- Ingredient 2
+- Almonds
+- Corn
+- Albahaca
+- Parmesano
 
 
 ## Instructions
